@@ -12,7 +12,10 @@ to withdraw money,deposit.
 
 <img width="784" height="693" alt="image" src="https://github.com/user-attachments/assets/daef1a8f-8223-48f3-8f67-5224e0c98be0" />
 
-#### Class Diagram:
+#### Activity Diagram:
+
+<img width="916" height="765" alt="image" src="https://github.com/user-attachments/assets/0f14ff2c-db54-40ad-aa5d-2c51dd03f846" />
+
 
 
 
