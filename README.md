@@ -16,6 +16,13 @@ to withdraw money,deposit.
 
 <img width="916" height="765" alt="image" src="https://github.com/user-attachments/assets/0f14ff2c-db54-40ad-aa5d-2c51dd03f846" />
 
+#### Sequence Diagram
+
+<img width="917" height="776" alt="image" src="https://github.com/user-attachments/assets/51baa1fb-7127-4c87-8a40-f9d1848d7d4a" />
+
+
+
+
 
 
 
